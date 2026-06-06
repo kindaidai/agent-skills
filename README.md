@@ -21,7 +21,6 @@ gh skill update --all
 | Skill | Description |
 |-------|-------------|
 | baseline-ui | Enforces an opinionated UI baseline to prevent AI-generated interface slop. |
-| browser-use | Browser automation via the `browser-use` CLI. |
 | frontend-design | Create distinctive, production-grade frontend interfaces. |
 | web-design-guidelines | Review UI code for Web Interface Guidelines compliance. |
 | tmux-relay | Relay messages to other Claude Code instances via tmux panes. |
