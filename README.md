@@ -24,3 +24,6 @@ gh skill update --all
 | frontend-design | Create distinctive, production-grade frontend interfaces. |
 | web-design-guidelines | Review UI code for Web Interface Guidelines compliance. |
 | tmux-relay | Relay messages to other Claude Code instances via tmux panes. |
+| terraform-module-library | Reusable Terraform modules for AWS, Azure, and GCP. |
+| vercel-react-best-practices | React/Next.js performance optimization guidelines. |
+| find-skills | Discover and install agent skills. |
