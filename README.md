@@ -4,6 +4,8 @@ Personal collection of agent skills following the [Agent Skills specification](h
 
 Skills live under `skills/<name>/SKILL.md` and are managed with the GitHub CLI `gh skill` command (preview).
 
+管理方針・skill 一覧・運用・リリース履歴は [docs/skills-management.md](docs/skills-management.md) を参照。
+
 ## Install
 
 ```bash
